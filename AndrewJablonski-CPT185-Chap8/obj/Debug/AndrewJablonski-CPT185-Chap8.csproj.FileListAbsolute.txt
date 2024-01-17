@@ -1,0 +1,10 @@
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\bin\Debug\AndrewJablonski-CPT185-Chap8.exe.config
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\bin\Debug\AndrewJablonski-CPT185-Chap8.exe
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\bin\Debug\AndrewJablonski-CPT185-Chap8.pdb
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\obj\Debug\AndrewJablonski-CPT185-Chap8.csproj.AssemblyReference.cache
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\obj\Debug\AndrewJablonski_CPT185_Chap8.Form1.resources
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\obj\Debug\AndrewJablonski_CPT185_Chap8.Properties.Resources.resources
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\obj\Debug\AndrewJablonski-CPT185-Chap8.csproj.GenerateResource.cache
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\obj\Debug\AndrewJablonski-CPT185-Chap8.csproj.CoreCompileInputs.cache
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\obj\Debug\AndrewJablonski-CPT185-Chap8.exe
+C:\Users\asjab\source\repos\AndrewJablonski-CPT185-Chap8\obj\Debug\AndrewJablonski-CPT185-Chap8.pdb
